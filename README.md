@@ -19,7 +19,8 @@
 ---
 
 ## ✨ 功能特性
--  <a href="https://github.com/MoonTechLab/LunaTV"  target="_blank"> 原项目链接 </a> 
+-  <a href="https://github.com/MoonTechLab/LunaTV"  target="_blank"> <img width="48" height="48" alt="0532BCA3" src="https://github.com/user-attachments/assets/3c08d456-40c8-4762-9f87-9e235a9cc71a" />
+原项目链接 </a> 
 - 🔍 **多源聚合搜索**：一次搜索立刻返回全源结果。
 - 📄 **丰富详情页**：支持剧集列表、演员、年份、简介等完整信息展示。
 - ▶️ **流畅在线播放**：集成 HLS.js & ArtPlayer。
